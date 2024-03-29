@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samatachai%20&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samatachai%20&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <HTML> <H2><font color=RED>tested</font></H2></H2></HTML>
 <!--
