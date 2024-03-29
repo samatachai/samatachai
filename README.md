@@ -3,7 +3,7 @@
 
 ![Electronics](https://img.icons8.com/color/48/000000/electronics.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
 
-<code style="color : RED">text</code>
+$${\color{red}Test.}$$
 <!--
 **samatachai/samatachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
